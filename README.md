@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://nafiulhaque.github.io/Portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://nafiul-haque-portfolio.web.app/)**
 
 - 📫 How to reach me **nafiulhaque22@gmail.com**
 
